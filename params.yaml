@@ -1,0 +1,10 @@
+train:
+  img_height: 28
+  img_width: 28
+  batch_size: 32
+  epochs: 5
+  learning_rate: 0.001
+  test_size: 0.2
+  num_classes: 10
+  random_state: 42
+  max_samples: 10000
